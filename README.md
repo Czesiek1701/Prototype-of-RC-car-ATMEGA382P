@@ -1,4 +1,4 @@
-My first electronic project (2021) of sth more than few leds working with Arduino. It is RC car stand on ATMEGA328P connected with ATTiny by wireless modul. 
+My first electronic project (2021) of sth more than few leds working with Arduino. It is prototype of RC car stand on ATMEGA328P connected with ATTiny by wireless modul. 
 Bigger one controlls engine and servo work. Construction made from sheet metal last minute. 
 
 Used components, among others:
@@ -24,4 +24,4 @@ Construction:
   - bearings
   - wheels
 
-Future plan is to made construction with my 3D printer and upgrade control code.
+Future plan is to made construction with my 3D printer,upgrade control code and reduce the size of wires. 
