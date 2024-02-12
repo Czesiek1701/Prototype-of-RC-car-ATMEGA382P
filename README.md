@@ -23,3 +23,5 @@ Construction:
   - simple axles 3mm
   - bearings
   - wheels
+
+Future plan is to made construction with my 3D printer and upgrade control code.
