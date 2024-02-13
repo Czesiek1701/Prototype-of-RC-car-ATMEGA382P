@@ -26,5 +26,5 @@ Bigger one controlls engine and servo work. Construction made from sheet metal l
   - bearings
   - wheels
 
-## Futures
+## Next step
 Future plan is to made construction with my 3D printer,upgrade control code and reduce the size of wires. 
