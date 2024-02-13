@@ -28,7 +28,7 @@ Bigger one controlls engine and servo work. Car body made from sheet metal last 
 
 ## Photos
 
-<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a21138ff-3d3e-44ff-9b8f-9416df5eef1a>
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a21138ff-3d3e-44ff-9b8f-9416df5eef1a width="100">
 
 ![417632424_944997986505543_3530190759825526088_n](https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/5fbdeec8-8364-451a-9652-4e311eaaf36d)
 
