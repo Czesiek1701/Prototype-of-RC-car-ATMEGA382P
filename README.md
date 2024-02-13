@@ -26,7 +26,9 @@ Bigger one controlls engine and servo work. Car body made from sheet metal last 
   - bearings
   - wheels
 
-## Photos
+## Photos and video
+
+[Video of riding car](https://youtu.be/dVL0nfg-6Mo)
 
 <img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a21138ff-3d3e-44ff-9b8f-9416df5eef1a width="550">
 
