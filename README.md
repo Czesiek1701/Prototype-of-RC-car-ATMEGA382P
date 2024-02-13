@@ -28,17 +28,17 @@ Bigger one controlls engine and servo work. Car body made from sheet metal last 
 
 ## Photos
 
-<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a21138ff-3d3e-44ff-9b8f-9416df5eef1a width="500">
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a21138ff-3d3e-44ff-9b8f-9416df5eef1a width="550">
 
-![417632424_944997986505543_3530190759825526088_n](https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/5fbdeec8-8364-451a-9652-4e311eaaf36d)
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/5fbdeec8-8364-451a-9652-4e311eaaf36d width="550">
 
-![393094554_738837927644825_2094224765569802673_n](https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/8e434043-f579-4a49-8aaf-42f0aabc867f)
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/8e434043-f579-4a49-8aaf-42f0aabc867f width="550">
 
-![393081997_704061521822103_3454719232097975807_n](https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a4715dc1-1ec6-4f34-8770-1581c24fe908)
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/a4715dc1-1ec6-4f34-8770-1581c24fe908 width="550">
 
-![417331409_867633731712544_6177508328748643662_n](https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/abf85e8c-b6f8-473a-8431-286bf0869b90)
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/abf85e8c-b6f8-473a-8431-286bf0869b90 width="550">
 
-![403608485_1790829641363441_291881763934543638_n](https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/c7fa43eb-fa0b-46bc-a495-88aaff28a0f3)
+<img src=https://github.com/Czesiek1701/Prototype-of-RC-car-ATMEGA382P/assets/157902583/c7fa43eb-fa0b-46bc-a495-88aaff28a0f3 width="550">
 
 ## Next step
 Future plan is to made construction with my 3D printer,upgrade control code and reduce the size of wires. 
